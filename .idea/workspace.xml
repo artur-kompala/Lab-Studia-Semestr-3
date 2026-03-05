@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86b62856-8b5a-43b3-b8d0-bc4ab8df1ccd" name="Changes" comment="Init">
-      <change afterPath="$PROJECT_DIR$/Uczenie głębokie z sieciami neuronowymi/Uczenie_głębokie_Lab1_b.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Uczenie głębokie z sieciami neuronowymi/Uczenie_głębokie_Lab_1a.ipynb" afterDir="false" />
+    <list default="true" id="86b62856-8b5a-43b3-b8d0-bc4ab8df1ccd" name="Changes" comment="Uczenie_głębokie_Lab1_a">
+      <change afterPath="$PROJECT_DIR$/Hurtownie danych/Explanatory Data Analysis.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/yellow_tripdata_2025-01.parquet" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
@@ -22,10 +22,17 @@
   </component>
   <component name="CopilotUserSelectedModel">
     <selectedModels>
+      <entry key="edit-panel" value="GPT-5 mini" />
       <entry key="chat-panel" value="GPT-5 mini" />
       <entry key="agent-panel" value="GPT-5 mini" />
-      <entry key="edit-panel" value="GPT-5 mini" />
     </selectedModels>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -53,19 +60,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/megaz/PycharmProjects/Lab-Studia-Semestr-3/Uczenie głębokie z sieciami neuronowymi&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/megaz/PycharmProjects/Lab-Studia-Semestr-3/data"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\megaz\PycharmProjects\Lab-Studia-Semestr-3\data" />
       <recent name="C:\Users\megaz\PycharmProjects\Lab-Studia-Semestr-3\Uczenie głębokie z sieciami neuronowymi" />
     </key>
   </component>
@@ -92,12 +100,32 @@
       <option name="project" value="LOCAL" />
       <updated>1772716047222</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Uczenie_głębokie_Lab1_a">
+      <option name="closed" value="true" />
+      <created>1772721894052</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1772721894052</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init" />
-    <option name="LAST_COMMIT_MESSAGE" value="Init" />
+    <MESSAGE value="Uczenie_głębokie_Lab1_a" />
+    <option name="LAST_COMMIT_MESSAGE" value="Uczenie_głębokie_Lab1_a" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
