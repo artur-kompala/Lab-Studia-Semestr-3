@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86b62856-8b5a-43b3-b8d0-bc4ab8df1ccd" name="Changes" comment="lab 3">
-      <change afterPath="$PROJECT_DIR$/Uczenie głębokie z sieciami neuronowymi/UGzSN_Lab_3_motody_regularyzacji_v2.ipynb" afterDir="false" />
+    <list default="true" id="86b62856-8b5a-43b3-b8d0-bc4ab8df1ccd" name="Changes" comment="Lab 4">
+      <change afterPath="$PROJECT_DIR$/Uczenie głębokie z sieciami neuronowymi/Sprawozdanie_1_ArturKompała.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/student-mat.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/student-merge.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/student-por.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/student.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uczenie głębokie z sieciami neuronowymi/UGzSN_Lab_3_motody_regularyzacji_v2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Uczenie głębokie z sieciami neuronowymi/UGzSN_Lab_3_motody_regularyzacji_v2.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,27 +67,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.Lab2py.executor": "Run",
-    "Python.Python 3.13.executor": "Run",
-    "Python.Unnamed.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/megaz/PycharmProjects/Lab-Studia-Semestr-3/Uczenie głębokie z sieciami neuronowymi",
-    "settings.editor.selected.configurable": "configurable.group.Jupyter Settings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Lab2py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Python 3.13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/megaz/PycharmProjects/Lab-Studia-Semestr-3/Uczenie głębokie z sieciami neuronowymi&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.Jupyter Settings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\megaz\PycharmProjects\Lab-Studia-Semestr-3\Uczenie głębokie z sieciami neuronowymi" />
       <recent name="C:\Users\megaz\PycharmProjects\Lab-Studia-Semestr-3\data" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\megaz\PycharmProjects\Lab-Studia-Semestr-3\data" />
       <recent name="C:\Users\megaz\PycharmProjects\Lab-Studia-Semestr-3\Uczenie głębokie z sieciami neuronowymi" />
       <recent name="C:\Users\megaz\PycharmProjects\Lab-Studia-Semestr-3\Hurtownie danych" />
     </key>
@@ -167,7 +173,23 @@
       <option name="project" value="LOCAL" />
       <updated>1773929726534</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Lab 4">
+      <option name="closed" value="true" />
+      <created>1774532638975</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1774532638975</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Lab 4">
+      <option name="closed" value="true" />
+      <created>1774532747365</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1774532747365</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -187,7 +209,8 @@
     <MESSAGE value="hurtowanie danych lab1" />
     <MESSAGE value="Bagging" />
     <MESSAGE value="lab 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab 3" />
+    <MESSAGE value="Lab 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab 4" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
